@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot-maker-bot",
+  "author": "Robert Borghese",
+  "main": "bot.js",
+  "version": "2.0.3",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^13.2.0",
+    "fstorm": "latest",
+    "jimp": "latest",
+    "loadavg-windows": "^1.1.1",
+    "mysql2": "^2.3.2",
+    "node-cron": "^3.0.0",
+    "sequelize": "^6.8.0"
+  }
+}
